@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 우라입니다 🙌
 
 <!--
 **elwlxjf2025/elwlxjf2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
