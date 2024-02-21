@@ -1,5 +1,6 @@
 ### BACK-END DEV URA
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true?theme=THEME_NAME.discord_old_blurple)
 
 ### JAVA
 <img src="https://img.shields.io/badge/JAVA-AE445A?style=for-the-badge&logo=Java&logoColor=white">
