@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### Linux
-<img src="https://img.shields.io/badge/macos-FCC624?style=for-the-badge&logo=macos&logoColor=black">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
 ### Github
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
