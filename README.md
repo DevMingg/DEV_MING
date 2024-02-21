@@ -1,15 +1,15 @@
-### BACK-END DEV URA
+<h1 align="center">backend dev_URA</h1>
+<h3 align="center">A passionate backend developer from korea</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?elwlxjf2025=anuraghazra&show_icons=true&theme=radical)](https://camo.githubusercontent.com/918a8ed8d733ba183ce765de21082cb97e4dc36e8b3f5d0cfc49ef749182b46c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d646973636f72645f6f6c645f626c7572706c65)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elwlxjf2025&label=Profile%20views&color=0e75b6&style=flat" alt="elwlxjf2025" /> </p>
 
-### JAVA
-<img src="https://img.shields.io/badge/JAVA-AE445A?style=for-the-badge&logo=Java&logoColor=white">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dev.to ura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to ura" height="30" width="40" /></a>
+<a href="https://instagram.com/alsguril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alsguril" height="30" width="40" /></a>
+</p>
 
-### SPRING BOOT
-<img src="https://img.shields.io/badge/Spring boot-3776AB?style=for-the-badge&logo=Spring boot&logoColor=white">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-### MySQL
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-### Github
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elwlxjf2025&show_icons=true&locale=en" alt="elwlxjf2025" /></p>
