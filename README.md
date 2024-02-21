@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://img.shields.io/badge/JAVA-a3445a.svg?style=for-the-badge&logo=JAVA&logoColor=#white" />
-<img src="https://img.shields.io/badge/SPRING BOOT-2db400.svg?style=for-the-badge&logo=SPRING BOOT&logoColor=#white" />
+<img src="https://img.shields.io/badge/SPRING BOOT-ffffff.svg?style=for-the-badge&logo=SPRING BOOT&logoColor=#2db400" />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elwlxjf2025&show_icons=true&locale=en" alt="elwlxjf2025" /></p>
