@@ -1,6 +1,6 @@
 ### BACK-END DEV URA
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?[elwlxjf2025](https://gist.github.com/elwlxjf2025)=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://gist.github.com/elwlxjf2025=anuraghazra&show_icons=true&theme=radical)
 
 ### JAVA
 <img src="https://img.shields.io/badge/JAVA-AE445A?style=for-the-badge&logo=Java&logoColor=white">
