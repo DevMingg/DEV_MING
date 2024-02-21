@@ -1,9 +1,13 @@
 ### BACK-END DEV URA
 
 
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-AE445A?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-[![Spring Boot]([](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://springboot.io/)
+[![Spring Boot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://springboot.io/)
+
+[![MYSQL](https://img.shields.io/badge/mysql-99CCFF?style=for-the-badge&logo=spring&logoColor=white)](https://www.mysql.org/)
+
+[![MYSQL](https://img.shields.io/badge/mysql-99CCFF?style=for-the-badge&logo=spring&logoColor=white)](https://www.lua.com/)
+
 
