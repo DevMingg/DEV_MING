@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-**Languages:** <img src="https://img.shields.io/badge/JAVA-20232a.svg?style=for-the-badge&logo=JAVA&logoColor=#A3445A" />
+###Languages:## <img src="https://img.shields.io/badge/JAVA-20232a.svg?style=for-the-badge&logo=JAVA&logoColor=A3445A" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elwlxjf2025&show_icons=true&locale=en" alt="elwlxjf2025" /></p>
 
