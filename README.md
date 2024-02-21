@@ -9,14 +9,16 @@
 </div>
 
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=elwlxjf2025&show_icons=true&locale=en" alt="elwlxjf2025" />
-    </div>
-    <div style="flex: 1;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=elwlxjf2025&" alt="elwlxjf2025" />
-    </div>
-</div>
+<h3 align="center">A passionate backend developer from korea</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/alsguril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alsguril" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elwlxjf2025&show_icons=true&locale=en" alt="elwlxjf2025" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elwlxjf2025&" alt="elwlxjf2025" /></p>
 
 
 
