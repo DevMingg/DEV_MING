@@ -1,10 +1,10 @@
 <h1 align="center">backend dev_URA</h1>
 <h3 align="center">A passionate backend developer from korea</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elwlxjf2025&label=Profile%20views&color=0e75b6&style=flat" alt="elwlxjf2025" /> </p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elwlxjf2025" alt="elwlxjf2025" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
