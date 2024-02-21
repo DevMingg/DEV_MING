@@ -9,14 +9,15 @@
 </div>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
+<div style="display: flex;">
+    <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api?username=elwlxjf2025&show_icons=true&locale=en" alt="elwlxjf2025" />
     </div>
-    <div>
+    <div style="flex: 1;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elwlxjf2025&" alt="elwlxjf2025" />
     </div>
 </div>
+
 
 
 
