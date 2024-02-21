@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="right">
+<p align="center">
 <a href="https://instagram.com/alsguril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alsguril" height="30" width="40" /></a>
 </p>
 
