@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/JAVA-a3445a.svg?style=for-the-badge&logo=JAVA&logoColor=#white" />
 <img src="https://img.shields.io/badge/SPRING BOOT-020715.svg?style=for-the-badge&logo=SPRING BOOT&logoColor=#2db400" />
 <img src="https://img.shields.io/badge/MYSQL-99ccff.svg?style=for-the-badge&logo=MYSQL&logoColor=#white" />
+<img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=#white" />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elwlxjf2025&show_icons=true&locale=en" alt="elwlxjf2025" /></p>
