@@ -60,7 +60,7 @@
   </a>
 </div>
 
-  <a href="instagam:alsguril">
+  <a center="instagam:alsguril">
     <img
       src="https://img.shields.io/badge/alsguril-D14836?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
