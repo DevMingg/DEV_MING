@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/mysql-ddffff?style=for-the-badge&logo=mysql&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-22ABF3?style=for-the-badge&logo=mysql&logoColor=ffd35b" />&nbsp
 </div>
 
 <br>
