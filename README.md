@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Typescript -aef0ff?style=for-the-badge&logo=Typescript&logoColor=a1b4ff" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-9ad255?style=for-the-badge&logo=Spring Boot&logoColor=white" />&nbsp
 <div align="center">
-  <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=a5d8ea" />&nbsp
+  <img src="https://img.shields.io/badge/mysql a9cdd1-?style=for-the-badge&logo=mysql&logoColor=a5d8ea" />&nbsp
 
 </div>
 
