@@ -2,7 +2,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elwlxjf2025&show_icons=true&locale=en" alt="elwlxjf2025" /></p>
 
