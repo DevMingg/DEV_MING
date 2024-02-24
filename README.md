@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/java-ea3c53.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/mysql-22ABF3?style=for-the-badge&logo=mysql&logoColor=ffd35b" />&nbsp
 </div>
 
 <br>
@@ -28,10 +26,14 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React -000000?style=for-the-badge&logo=react&logoColor=0055ff" />&nbsp
+  <img src="https://img.shields.io/badge/Kotlin -007ACC.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Typescript -000000?style=for-the-badge&logo=react&logoColor=0055ff" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-9ad255?style=for-the-badge&logo=Spring Boot&logoColor=white" />&nbsp
+<div align="center">
+  <img src="https://img.shields.io/badge/mysql-22ABF3?style=for-the-badge&logo=mysql&logoColor=ffd35b" />&nbsp
+
 </div>
+
 
 <br>
 
