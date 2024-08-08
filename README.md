@@ -20,10 +20,10 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Kotlin -ffbfd2.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Kotlin -B125EA.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-9ad255?style=for-the-badge&logo=Spring Boot&logoColor=white" />&nbsp
 <div align="center">
-  <img src="https://img.shields.io/badge/mysql -a9cdd1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src= "https://img.shields.io/badge/mysql -005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp 
 
 </div>
 
@@ -32,7 +32,6 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logo=Color=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 <img src= https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />&nbsp
 </div>
