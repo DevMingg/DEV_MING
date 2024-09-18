@@ -27,8 +27,8 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 <img src= https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />&nbsp
+<img src= https://img.shields.io/badge/intellijidea-DF0174?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />&nbsp
 </div>
 
 
