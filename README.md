@@ -1,10 +1,9 @@
 <!--타이틀 부분-->
 
-
 <!--내용 부분-->
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-ea3c53.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/Java -ea3c53.svg?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
 </div>
 
 </div>
@@ -27,8 +26,9 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-<img src= https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />&nbsp
-<img src= https://img.shields.io/badge/intellijidea-DF0174?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />&nbsp
+<!-- img src= https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white />&nbsp -->
+<img src= https://img.shields.io/badge/IntelliJ%20IDEA-DF0174?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white />&nbsp
+  <img src= https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white />&nbsp
 </div>
 
 
