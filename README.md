@@ -47,9 +47,9 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
  
-  <a href="mailto:elwlxjf2025@gmail.com">
+  <a href="mailto:devminglee@gmail.com">
     <img
-      src="https://img.shields.io/badge/elwljxf2025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/devminglee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
